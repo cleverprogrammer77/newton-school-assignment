@@ -71,6 +71,9 @@
   width: 30%;
 }
 
+.thankyou {
+  margin-left: 35%;
+}
 /* Media Queries */
 @media (max-width: 771px) {
   .filters {

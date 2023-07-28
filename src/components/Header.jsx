@@ -1,6 +1,6 @@
 import React from "react";
 import { AiFillDelete } from "react-icons/ai";
-// import "../styles/header.css";
+import "../styles/header.css";
 import {
   Badge,
   Container,
